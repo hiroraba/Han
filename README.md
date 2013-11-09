@@ -1,4 +1,4 @@
 Perl-Jenkins
 ============
 
-Test::More on Jenkins
+Test::More on CI

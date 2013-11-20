@@ -1,6 +1,4 @@
+[![Build Status](https://travis-ci.org/hiroraba/Han.png?branch=master)](https://travis-ci.org/hiroraba/Han)
 Han
 ============
-
-[![Build Status](https://travis-ci.org/hiroraba/Perl-CI.png?branch=master)](https://travis-ci.org/hiroraba/Perl-CI)
-
 Test::More on CI
